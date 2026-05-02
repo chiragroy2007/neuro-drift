@@ -1,5 +1,7 @@
 # NeuroDrift
 
+Detailed Blog: https://chiragroy.substack.com/p/neurodrift-an-application-of-cognitive
+
 <div align="center">
   <h3>Quantifiable Cognitive Stability & Neural Drift Trajectory Modeling</h3>
   <p>A high-fidelity temporal monitoring platform engineered to map intra-individual variability, post-error slowing, and executive function decay through millisecond-accurate psychomotor task batteries.</p>
